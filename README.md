@@ -1,0 +1,1 @@
+This is the final project of my summer internship that i have done from Techinest Pvt. ltd on Face Mask Recognition Model using Keras, Opencv,haarcascades modules and numpy.This AI model will basically detect the person with or without mask using live camera and displays a message on screen as "Mask" or "Without Mask". 
